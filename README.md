@@ -11,4 +11,4 @@ I've independently designed and coded a responsive Music_Player on website, and 
 
 <h2>Screen_Shoot</h2>
 
-![](screen-MusicPlayer.gif)
+![](screen_MusicPlayer.gif)
